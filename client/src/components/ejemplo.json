@@ -1,0 +1,141 @@
+{
+    "id": "r5dcbgn2bp-9f8f-4dbe-82f8-46944fd5b641",
+    "language_model": "assemblyai_default",
+    "acoustic_model": "assemblyai_default",
+    "language_code": "es",
+    "status": "completed",
+    "audio_url": "https://cdn.assemblyai.com/upload/04b4e10f-83d0-407b-a87e-5c0a03ec836d",
+    "text": "Vale allí y estoy grabando perfecto. Peto, voy a parar a.",
+    "words": [
+        {
+            "text": "Vale",
+            "start": 1220,
+            "end": 1380,
+            "confidence": 0.9996448755264282,
+            "speaker": null
+        },
+        {
+            "text": "allí",
+            "start": 1680,
+            "end": 1820,
+            "confidence": 0.9116476774215698,
+            "speaker": null
+        },
+        {
+            "text": "y",
+            "start": 2000,
+            "end": 2020,
+            "confidence": 0.7976204752922058,
+            "speaker": null
+        },
+        {
+            "text": "estoy",
+            "start": 2040,
+            "end": 2200,
+            "confidence": 0.8477250933647156,
+            "speaker": null
+        },
+        {
+            "text": "grabando",
+            "start": 2240,
+            "end": 2560,
+            "confidence": 0.9811703562736511,
+            "speaker": null
+        },
+        {
+            "text": "perfecto.",
+            "start": 2700,
+            "end": 3080,
+            "confidence": 0.9693102836608887,
+            "speaker": null
+        },
+        {
+            "text": "Peto,",
+            "start": 3600,
+            "end": 3940,
+            "confidence": 0.9070547819137573,
+            "speaker": null
+        },
+        {
+            "text": "voy",
+            "start": 5700,
+            "end": 5800,
+            "confidence": 0.9657974243164062,
+            "speaker": null
+        },
+        {
+            "text": "a",
+            "start": 5860,
+            "end": 5880,
+            "confidence": 0.9852818846702576,
+            "speaker": null
+        },
+        {
+            "text": "parar",
+            "start": 5920,
+            "end": 6100,
+            "confidence": 0.961742639541626,
+            "speaker": null
+        },
+        {
+            "text": "a.",
+            "start": 6260,
+            "end": 6280,
+            "confidence": 0.81,
+            "speaker": null
+        }
+    ],
+    "utterances": null,
+    "confidence": 0.921545044725592,
+    "audio_duration": 6,
+    "punctuate": true,
+    "format_text": true,
+    "dual_channel": null,
+    "webhook_url": null,
+    "webhook_status_code": null,
+    "webhook_auth": false,
+    "webhook_auth_header_name": null,
+    "speed_boost": false,
+    "auto_highlights_result": null,
+    "auto_highlights": false,
+    "audio_start_from": null,
+    "audio_end_at": null,
+    "word_boost": [],
+    "boost_param": null,
+    "filter_profanity": false,
+    "redact_pii": false,
+    "redact_pii_audio": false,
+    "redact_pii_audio_quality": null,
+    "redact_pii_policies": null,
+    "redact_pii_sub": null,
+    "speaker_labels": false,
+    "content_safety": false,
+    "iab_categories": false,
+    "content_safety_labels": {
+        "status": "unavailable",
+        "results": [],
+        "summary": {}
+    },
+    "iab_categories_result": {
+        "status": "unavailable",
+        "results": [],
+        "summary": {}
+    },
+    "language_detection": false,
+    "custom_spelling": null,
+    "throttled": null,
+    "auto_chapters": false,
+    "summarization": false,
+    "summary_type": null,
+    "summary_model": null,
+    "custom_topics": false,
+    "topics": [],
+    "disfluencies": false,
+    "sentiment_analysis": false,
+    "chapters": null,
+    "sentiment_analysis_results": null,
+    "entity_detection": false,
+    "entities": null,
+    "summary": null,
+    "speakers_expected": null
+}
