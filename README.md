@@ -3,7 +3,7 @@
 
 Este proyecto es una aplicación web con backend realizado con Express y frontend con React. La aplicación permite subir un video a través de la web, y enviarlo a AssemblyAI, que responde con el texto correspondiente a lo que se habló en el video. Luego, se puede resumir o obtener los puntos más importantes del texto, enviándolo a ChatGPT.
 
-![enter image description here](https://github.com/yef-marcano/transcript-ia/blob/main/client/src/style/media/proyecto.png?raw=true)
+![Transcript YM IMG](https://github.com/yef-marcano/transcript-ia/blob/main/client/src/style/media/proyecto.png?raw=true)
 
 ## Instalación y configuración
 
