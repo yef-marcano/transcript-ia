@@ -4,7 +4,7 @@ function getTranscription (URL) {
     const assembly = axios.create({
         baseURL: "https://api.assemblyai.com/v2",
         headers: {
-            authorization: "70ed07fcaa5d48ff86b2e8ac3083034c",
+            authorization: process.env.PORTAUTH_ASSEMBLYAI,
             "content-type": "application/json",
         },
     });
@@ -25,7 +25,7 @@ function getResponse(id){
     const assembly = axios.create({
         baseURL: "https://api.assemblyai.com/v2",
         headers: {
-            authorization: "70ed07fcaa5d48ff86b2e8ac3083034c",
+            authorization: process.env.PORTAUTH_ASSEMBLYAI,
             "content-type": "application/json",
         },
     });
